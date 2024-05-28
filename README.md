@@ -1,16 +1,13 @@
-### Hi there 👋
+### bem vindo à minha página do GitHub 🤝
 
-<!--
-**eniosegatto/eniosegatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME É ENIO RICARDO
 
-Here are some ideas to get you started:
+ESTOU APRENDENDO PROGRAMAÇÃO COM A ALURA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+APRENDENDO LINGUAGEM JAVA SCRIPT
+
+###VOCÊ PODE ENTRAR EM CONTATO COMIGO 📧
+
+ecremas@gmail
+
+@ecremas
